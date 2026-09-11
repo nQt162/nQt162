@@ -6,9 +6,16 @@ My name is Quoc Trieu. I am a Computer Science student at Posts and Telecommunic
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nQt162/) 
 
 <a href="https://github.com/nQt162/HQTCSDL_stocks">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nQt162&repo=HQTCSDL_stocks&theme=gruvbox" />
+  <img
+    align="center"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nQt162&repo=HQTCSDL_stocks&theme=gruvbox&v=2"
+  />
 </a>
+
 <a href="https://github.com/nQt162/RAG">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nQt162&repo=RAG&theme=dark" />
+  <img
+    align="center"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nQt162&repo=RAG&theme=gruvbox&v=2"
+  />
 </a>
 
